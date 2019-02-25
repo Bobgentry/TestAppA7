@@ -1,0 +1,179 @@
+html,
+body {
+  height: 90%;
+}
+
+body {
+  background-color: rgba(211, 211, 211, 0.432);
+  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
+  
+  /* margin-top:20px;
+  margin-left:20px;
+  margin-right:20px; */
+
+}
+.Cbuttons {
+  width:100px;
+}
+.btn {
+    margin-right: 2px;
+    margin-bottom: 5px !important;
+    
+}
+
+.borders {
+
+  border-style:solid !important;
+  border:.5px !important;
+  border-color: aqua !important;
+
+
+}
+ #htmlform {
+
+/* background-color: rgb(255, 254, 241); */
+padding: 5px;
+border-style:solid;
+border-color: lightgray;
+border-radius: 10px;
+border-width: .5px;
+padding:5px;
+ }
+
+label {
+  color: #666;
+    margin-bottom: 5px;
+    line-height: 27px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.number-control
+{
+    /* border-color:red !important; */
+    
+    border-width :1;
+    border-right-color: lightgrey;
+    border-bottom-color: lightgrey;
+    border-style: solid;
+    border-top-color: lightgrey;
+    border-left-color: lightgrey;
+    height: 32px;
+    display: block;
+    width: 200px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;  
+}
+
+
+.date-control
+{
+    /* border-color:red !important; */
+    
+    border-width :1;
+    border-right-color: lightgrey;
+    border-bottom-color: lightgrey;
+    border-style: solid;
+    border-top-color: lightgrey;
+    border-left-color: lightgrey;
+    height: 32px;
+    display: block;
+    width: 200px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;  
+}
+.form-control
+{
+  height: 32px;
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    
+}
+.fb-text-label
+{
+  font-style: bold;
+}
+.control-group{
+  
+    margin-left: 0;
+   
+    display: block;
+      width: 98%;
+      padding: 6px 12px; 
+       border-radius: 4px;
+      background-color: white; 
+      margin-bottom: 3px;
+      margin:8px;
+    }
+    .hidden-group{
+  
+        margin-left: 0;
+       height:30px;
+        display: block;
+          width: 100%;
+          padding: 6px 12px; 
+           border-radius: 4px;
+          background-color: transparent; 
+          margin-bottom: 5px;
+        }
+    .button-group{
+  
+        /* margin-left: 0; */
+       
+        /* display: block; */
+          /* width: 100%; */
+          padding: 6px 12px; 
+           border-radius: 4px;
+          /* background-color: white;  */
+          margin-bottom: 5px;
+        }
+
+   /* .control-head-group{
+  
+    margin-left: 0;
+   
+   
+      width: 98%;
+      padding: 3px 3px 10px 30px !important;
+      margin-top: 0px !important;
+     
+      background-color: white; 
+      margin-bottom: 5px;
+  }  */
+     
+  
+  h1 {
+    width: 98%;
+   padding: 23px 23px 23px 30px !important;
+   margin-top: 10px !important;
+    border-radius: 4px;
+   background-color: white; 
+   margin-bottom: 15px;
+   border-style:solid !important;
+   border-width:1px !important;
+   border-color:green;
+   border-radius: 10px;
+ 
+  
+ }
+h2,h3 {
+  width: 98%;
+ /* padding: 23px 23px 30px 30px !important; */
+ margin-top: 10px !important;
+ 
+ background-color: white; 
+ margin-bottom: 15px;
+
+ margin-left: 23px!important;
+}
+
+
+
+

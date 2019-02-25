@@ -1,0 +1,125 @@
+{
+  "configVersion": 1,
+  "index": "https://bobgentry.github.io/TestAppA7/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://bobgentry.github.io/TestAppA7/favicon.ico",
+        "https://bobgentry.github.io/TestAppA7/index.html"
+      ],
+      "patterns": [
+        "https:\\/\\/bobgentry\\.github\\.io\\/AngularTest\\/.*"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://bobgentry.github.io/TestAppA7/assets/Capture2.PNG",
+        "https://bobgentry.github.io/TestAppA7/assets/apple-touch-icon.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1125.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1242.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1536.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1668.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_2048.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_640.png",
+        "https://bobgentry.github.io/TestAppA7/assets/apple_splash_750.png",
+        "https://bobgentry.github.io/TestAppA7/assets/background.jpg",
+        "https://bobgentry.github.io/TestAppA7/assets/css/demo.css",
+        "https://bobgentry.github.io/TestAppA7/assets/css/render.css",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/_controls.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/_kc-toggle.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/_stage.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_animation.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_bs.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_font.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_mixins.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_variables.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/form-builder.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/css/sass/form-render.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/icon-128x128.png",
+        "https://bobgentry.github.io/TestAppA7/assets/icon-152x152.png",
+        "https://bobgentry.github.io/TestAppA7/assets/icon-256x256.png",
+        "https://bobgentry.github.io/TestAppA7/assets/icon-512x512.png",
+        "https://bobgentry.github.io/TestAppA7/assets/person-icon--icon-search-engine-3.png",
+        "https://bobgentry.github.io/TestAppA7/assets/rotate.png",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/_controls.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/_kc-toggle.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/_stage.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/base/_animation.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/base/_bs.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/base/_font.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/base/_mixins.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/base/_variables.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/form-builder.scss",
+        "https://bobgentry.github.io/TestAppA7/assets/sass/form-render.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://bobgentry.github.io/TestAppA7/assets/Capture2.PNG": "c167c8bdb515bb3558f4937b2a5e00d506c5bef7",
+    "https://bobgentry.github.io/TestAppA7/assets/apple-touch-icon.png": "e53455be864189caa8fb98e9d7921caefe968992",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1125.png": "77a99a76407f405e421e78ee56223863db6c9467",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1242.png": "7a816cbf0b73371b05b1bfaa397a677688782688",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1536.png": "c1918bee615563bf578c620b1763d477964bbeb2",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_1668.png": "063407f0c34cfe34a99341f03207ed1675af422d",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_2048.png": "2e1bb565934b594b44a3d655acfdbd1b1b3d53f4",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_640.png": "359ff787013a5bd1f1f1a759a0f3d943c2af6252",
+    "https://bobgentry.github.io/TestAppA7/assets/apple_splash_750.png": "68ece8f92ef7bad81b6880517309489ae8b8e1a6",
+    "https://bobgentry.github.io/TestAppA7/assets/background.jpg": "b948ef679506c28105d1d3ceb504fdf81cb1f06f",
+    "https://bobgentry.github.io/TestAppA7/assets/css/demo.css": "97868f03251a5b25a427d4b300298d3d4aa74c5e",
+    "https://bobgentry.github.io/TestAppA7/assets/css/render.css": "e71e9ad7316bcddee62a9263ebef3eb2ea7b2a4c",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/_controls.scss": "f1aeaedef3c460c13574bd6a64685e8c0218b3f8",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/_kc-toggle.scss": "5a4a24ceb48836f61752c8ce4bcac24af5e53c49",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/_stage.scss": "b05aaeeb27e98242f0cdd21779845d73162a45f8",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_animation.scss": "e4a9f4ef15d84eba93914b80458c2ecd32664c8b",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_bs.scss": "e9769737a368304838c7d78d0fb870fa0e89f1ca",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_font.scss": "50367c0b84e5e0485a5ae65ada32f752e32eff2c",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_mixins.scss": "0b82ae52126642137e723b847f2fc536c922beb5",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/base/_variables.scss": "11da79282968d29f471d75a4142f38c3ab7fdcbc",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/form-builder.scss": "0dcc80bd4faa6ffe7df7e8fcd7aba2f2179356ee",
+    "https://bobgentry.github.io/TestAppA7/assets/css/sass/form-render.scss": "b6b28b9ab9888e46d310437ce3553996b2edddde",
+    "https://bobgentry.github.io/TestAppA7/assets/icon-128x128.png": "b5929342b5aa5948913dad99dc07474d684f8e2f",
+    "https://bobgentry.github.io/TestAppA7/assets/icon-152x152.png": "b0fd72c2e427197d442730b2cbb200a535306d6a",
+    "https://bobgentry.github.io/TestAppA7/assets/icon-256x256.png": "d5e9ab30d6924e0a9732f2344ecea8cbca1924c1",
+    "https://bobgentry.github.io/TestAppA7/assets/icon-512x512.png": "49afb86ef09242d1a81521d4c827f2a6668e8831",
+    "https://bobgentry.github.io/TestAppA7/assets/person-icon--icon-search-engine-3.png": "b63db7ed8556b035144306e106cd2d14a0e3b14c",
+    "https://bobgentry.github.io/TestAppA7/assets/rotate.png": "1f33984fa58ea19adbd2190089daba81c799431d",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/_controls.scss": "f1aeaedef3c460c13574bd6a64685e8c0218b3f8",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/_kc-toggle.scss": "5a4a24ceb48836f61752c8ce4bcac24af5e53c49",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/_stage.scss": "d56f354d4394581ce193f278b03029dbeac2d118",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/base/_animation.scss": "e4a9f4ef15d84eba93914b80458c2ecd32664c8b",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/base/_bs.scss": "e9769737a368304838c7d78d0fb870fa0e89f1ca",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/base/_font.scss": "50367c0b84e5e0485a5ae65ada32f752e32eff2c",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/base/_mixins.scss": "0b82ae52126642137e723b847f2fc536c922beb5",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/base/_variables.scss": "11da79282968d29f471d75a4142f38c3ab7fdcbc",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/form-builder.scss": "f675db8e8e90054c8154cba310a3361babecc438",
+    "https://bobgentry.github.io/TestAppA7/assets/sass/form-render.scss": "b6b28b9ab9888e46d310437ce3553996b2edddde",
+    "https://bobgentry.github.io/TestAppA7/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://bobgentry.github.io/TestAppA7/index.html": "7bab4eb9e235c14ac4f2a2ad4134a249a7a4e208"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
