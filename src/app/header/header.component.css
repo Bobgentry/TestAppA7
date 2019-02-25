@@ -1,0 +1,110 @@
+.navbar-inner {
+    border-radius: 0px !important;
+}
+
+
+.navbar {
+    color:white;
+
+    border: none;
+    border-radius: 0;
+     margin-bottom: 0px; 
+    padding-top: 20px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    background-color:#286090; 
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+    background-color:#286090; 
+}
+/* .btn{
+    background-color:#286090; 
+    display:none;
+}
+.header-btn{
+    background-color:#286090; 
+} */
+.ssb
+         {
+        
+        background: transparent; 
+       
+        color:white;
+        font-size: 25px;
+        padding:5px;
+        
+        outline:none;
+        border: 0px;
+        
+        /* border-color: black; 
+        border-style: solid;
+        border-radius: 5px;  */
+               
+    }
+
+  /* #sidebarCollapse
+{
+    
+    outline:none;
+    border: none;
+    background-color: transparent;
+   
+} */
+
+table {
+    width:100%;
+    height:100%;
+    padding-top: 10px;
+}
+td {
+  vertical-align: mibottomddle;
+  width:33%;
+}
+.spacer
+{
+    height:2px;
+    font-size: 2px;
+}
+.header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    height:50px;   /* Height of the footer */
+    background-color:#286090; 
+}
+
+.center
+{
+    text-align: center;
+}
+
+.right
+{
+    padding-right: 15px;
+    text-align: right;
+  
+}
+
+.header-btn {
+    border:none;
+    background-color:#286090; 
+    height:40px;
+
+    }
+    @media (min-width: 770px) {
+.dbutton
+{
+    display:none;  
+}
+
+.port
+{
+    height:100vh;
+}
+    }

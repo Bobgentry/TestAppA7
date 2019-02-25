@@ -1,0 +1,41 @@
+
+<div id='page'>
+
+ 
+        
+<div id="land">
+          <div class="sigPage">
+                        
+                        <div id="row" class='row' (window:resize)="onResize($event)">
+                       
+                        <signature-pad  [options]='signaturePadOptions'  ></signature-pad>
+                        </div>
+                <div class='buttonbar'>
+                        <button class=' btn btn-danger btns' (click)='Cancel()'>Cancel</button>
+                        <button class=' btn btn-primary btns' (click)='drawClear()'>Clear</button>
+                        <button class=' btn btn-success btns' (click)='drawComplete()' >Save</button>
+                        <label class="message">Please sign above...</label>
+                </div>
+        </div> 
+
+</div>
+
+
+
+
+
+<div id="port" class="port">
+        <button class=' btn btn-default btns' (click)='Cancel()'>X</button>
+        <div id="rotatemessage" class="rotatemessage" >
+                        <div id="portraitdiv">
+                         
+                            <img src="assets/rotate.png"   />
+                            <label class='rwarning'> Please rotate device</label><br /><br />
+                           
+                        </div>
+            
+                    
+        </div>
+</div>
+
+</div>

@@ -1,0 +1,36 @@
+label.cameraButton {
+    display: inline-block;
+    margin: 1em 0;
+  
+    /* Styles to make it look like a button */
+    padding: 0.5em;
+    border: 2px solid #666;
+    border-color: #EEE #CCC #CCC #EEE;
+    background-color: #DDD;
+  }
+  
+  /* Look like a clicked/depressed button */
+  label.cameraButton:active {
+    border-color: #CCC #EEE #EEE #CCC;
+  }
+  
+  /* This is the part that actually hides the 'Choose file' text box for camera inputs */
+  label.cameraButton input[accept*="camera"] {
+    display: none;
+  }
+  .cam-image
+  {
+      width:100%;
+      
+      text-align:center;
+      
+  }
+  .i-title {
+     font-size: 32px; 
+  }
+ #preview
+  {
+     
+      width:225px;
+      height:250px;
+  }

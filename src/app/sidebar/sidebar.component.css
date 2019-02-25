@@ -1,0 +1,35 @@
+#years, #itemlist, #posts{
+    cursor:pointer;
+}
+
+.menulist {
+margin-left: 1em;
+margin-top: 0;
+margin-bottom: 1em;
+list-style-type: circle;
+font-size: medium;
+cursor: pointer;
+list-style: none;
+}
+.posts {
+margin-left: 1em;
+margin-top: 0;
+margin-bottom: 1em;
+list-style: none;
+font-weight: normal;
+cursor: pointer;
+}
+input[type="button"]{
+    outline:none;
+ }
+ input[type="button"]::-moz-focus-inner {
+    border: 0;
+ }
+ .fullwidth {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: ppx;
+ 
+ }
+
+ 

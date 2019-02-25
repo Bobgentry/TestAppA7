@@ -1,0 +1,63 @@
+table, th  {
+    border: 0px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+    width:90%;
+  }
+  .pageTitle {
+    font-size: 25px;
+    font-weight: bold; 
+  }
+
+  .t-title {
+    font-size: 20px;
+  font-weight: bold; 
+
+  }
+  .t-body {
+    font-size: 14px;
+  font-weight: normal; 
+
+  }
+
+  .t-footer {
+    font-size: 12px;
+    color:gray;
+    font-weight: normal; 
+
+  }
+TD {
+  vertical-align:middle;
+}
+TR {
+  border-bottom: thin solid;
+  border-bottom-color: lightgray;
+vertical-align: middle;
+ 
+}
+.pic
+{
+ background-color:gray;
+  width:80;
+   height:80;
+    
+}
+
+  @supports (-webkit-overflow-scrolling: touch) {
+  .scrollpage {
+    
+   
+   position:fixed;
+    height:90%;
+    width:100%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+
+  
+     overflow-y: scroll ;
+   /* -webkit-overflow-scrolling: touch ; */
+  }
+  .botton-space{
+    height:100px;
+  }
+  }

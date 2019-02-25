@@ -1,0 +1,30 @@
+
+ <app-header></app-header>
+
+<div class="mainPanel">
+  
+       
+    <nav id="sidebar">
+        <div class="sidebar-header">     
+            <app-sidebar></app-sidebar>
+            <hr>
+        </div> 
+    </nav>
+    <div id="content">
+  
+        <div [ngSwitch]="pagename">
+        {{value}}
+       <div *ngSwitchCase="'MainPage'"><app-get-signature></app-get-signature></div>
+       <div *ngSwitchCase="'Page2'"><app-image-capture></app-image-capture><b></b> </div>
+       <div *ngSwitchCase="'Page3'"><app-firstpage ></app-firstpage> </div>
+       <div *ngSwitchCase="'editor'"><app-editor></app-editor><b></b> </div>
+       <div *ngSwitchCase="'another'">This is another page<b></b> </div>
+
+        <div *ngSwitchDefault><app-firstpage ></app-firstpage></div>
+    
+        </div>
+          
+    </div>
+        
+</div>
+<app-footer></app-footer>

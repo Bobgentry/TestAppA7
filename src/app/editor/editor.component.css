@@ -1,0 +1,90 @@
+
+.build-wrap {
+  /* background-color: rgba(211, 211, 211, 0.432); */
+  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
+  margin-top:20px;
+  height:100%;
+ /* margin-left:20px;
+
+  margin-right:20px; */
+ 
+}
+
+/* 
+@supports (-webkit-overflow-scrolling: touch) {
+  #fb-editor {
+    
+   
+   position:fixed;
+    height:90%;
+    width:100%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+
+  
+     overflow-y: scroll ;
+   
+  }
+  .botton-space{
+    height:100px;
+  }
+  } */
+#fb-rendered-form
+{
+  margin-left:20px;
+  margin-right:20px
+}
+.template-textarea-wrap {
+    display: block !important;
+  }
+  
+ #fb-editor
+  {
+    font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
+    margin-top:20px;
+    /* margin-left:20px;
+    margin-right:20px; */
+    /* background-color: rgba(211, 211, 211, 0.432);
+   */
+  }
+.Cbuttons {
+  width:100px;
+}
+  .content {
+    margin: auto;
+    width: 100%;
+    max-width: 1280px;
+    padding-top: 5em;
+   
+  }
+  
+  .form-rendered .build-wrap {
+    display: none;
+  }
+  
+  .render-wrap {
+    display: none;
+  }
+  
+  .form-rendered .render-wrap {
+    display: block;
+  }
+  
+  #edit-form {
+    display: none;
+    float: right;
+  }
+  
+  .form-rendered #edit-form {
+    display: block;
+  }
+  body{
+    background: lightgrey;
+    font-family: sans-serif;
+  }
+  
+  #fb-rendered-form {
+    clear:both;
+    display:none;
+    
+  }

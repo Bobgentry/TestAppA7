@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color:  lightblue ;
+  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
+}
+.form-group
+{
+  margin-left: 0;
+    margin-bottom: 15px;
+}
+
+

@@ -1,0 +1,20 @@
+<div [@fadeInAnimation]='' >
+ 
+  <h2>  this is the mainPanel component</h2>  
+
+<div>
+        <!-- <img [src]='signatureImage' *ngIf="signatureImage" width=200 class='signature'/> -->
+     
+
+        <div *ngIf='signatureImage'>
+                <img [src]='signatureImage'  width=200 class='signature'/>
+              </div>
+              
+              <div *ngIf= '!signatureImage'>
+                    <img  style='background-color:white' width=200 height=100 class='signature'/>
+              </div>
+         
+</div>
+<br/>
+<button type="button" (click)="showSignature()"  >Signature Panel</button>
+</div>

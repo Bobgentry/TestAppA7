@@ -1,0 +1,24 @@
+
+{
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      },
+      "/dashboard": {
+        "prefix": false
+      },
+      "/signaturePanel": { 
+        "prefix": true
+      }
+    }
+  },
+  "external": {
+    "urls": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Quicksand"
+      }
+    ]
+  }
+}
